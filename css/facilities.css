@@ -1,0 +1,160 @@
+.facilities__content {
+  margin-top: 82px;
+}
+.gym{
+  width: 50%;
+}
+.facilities__title {
+  font-family: Adobe Garamond Pro;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 60px;
+  line-height: 72px;
+  text-align: center;
+  color: #14274a;
+}
+
+.facilities__info {
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 25px;
+  line-height: 30px;
+  text-align: center;
+  color: #14274a;
+  margin-top: 34px;
+  padding: 35px;
+}
+
+.facilities__gym {
+  margin-top: 82px;
+  position: relative;
+}
+
+.facilities__gym::before {
+  position: absolute;
+  content: "THE GYM";
+  background: #ffffff;
+  width: 684px;
+  height: 75px;
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 48px;
+  line-height: 59px;
+  text-align: center;
+  color: #14274a;
+  left: 23%;
+  top: 87%;
+  padding: 16px 16px;
+}
+.facilities__bar {
+  margin-top: 100px;
+  position: relative;
+}
+
+.facilities__bar::before {
+  position: absolute;
+  content: "POOLSIDE BAR";
+  background: #ffffff;
+  width: 684px;
+  height: 75px;
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 48px;
+  line-height: 59px;
+  text-align: center;
+  color: #14274a;
+  left: 23%;
+  top: 86%;
+  padding: 16px 16px;
+}
+.facilities__spa {
+  margin-top: 100px;
+  position: relative;
+}
+
+.facilities__spa::before {
+  position: absolute;
+  content: "THE SPA";
+  background: #ffffff;
+  width: 684px;
+  height: 75px;
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 48px;
+  line-height: 59px;
+  text-align: center;
+  color: #14274a;
+  left: 23%;
+  top: 87.2%;
+  padding: 16px 16px;
+}
+.facilities__pool {
+  margin-top: 100px;
+  position: relative;
+}
+
+.facilities__pool::before {
+  position: absolute;
+  content: "SWIMMING POOL";
+  background: #ffffff;
+  width: 684px;
+  height: 75px;
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 48px;
+  line-height: 59px;
+  text-align: center;
+  color: #14274a;
+  left: 23%;
+  top: 84.9%;
+  padding: 16px 16px;
+}
+.facilities__cafe {
+  margin-top: 100px;
+  position: relative;
+}
+
+.facilities__cafe::before {
+  position: absolute;
+  content: "RESTAURANT";
+  background: #ffffff;
+  width: 684px;
+  height: 75px;
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 48px;
+  line-height: 59px;
+  text-align: center;
+  color: #14274a;
+  left: 23%;
+  top: 87.2%;
+  padding: 16px 16px;
+}
+.facilities__clean {
+  margin-top: 100px;
+  position: relative;
+}
+
+.facilities__clean::before {
+  position: absolute;
+  content: "LAUNDRY";
+  background: #ffffff;
+  width: 684px;
+  height: 75px;
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 48px;
+  line-height: 59px;
+  text-align: center;
+  color: #14274a;
+  left: 23%;
+  top: 87.2%;
+  padding: 16px 16px;
+}
